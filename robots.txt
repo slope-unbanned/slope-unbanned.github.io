@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://slopeunblocked.games/sitemap.xml
+Sitemap: https://slope-unbanned.github.io/sitemap.xml
