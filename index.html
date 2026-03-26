@@ -125,9 +125,13 @@
               </button>
             </div>
           </div>
-          <div class="game-frame-container">
-            <iframe class="game-frame" src="https://23azostore.github.io/s/slope" allowfullscreen
-              allow="fullscreen; autoplay"></iframe>
+          <div class="game-frame-container" id="game-container">
+            <div class="video-poster" onclick="loadGame('https://23azostore.github.io/s/slope')">
+              <video src="Slope unbanned.mp4" autoplay loop muted playsinline class="game-video"></video>
+              <div class="play-overlay">
+                <div class="play-btn-large"></div>
+              </div>
+            </div>
           </div>
         </div>
       </section>

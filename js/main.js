@@ -96,3 +96,11 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+
+// Load game iframe on poster click
+function loadGame(url) {
+  const container = document.getElementById('game-container');
+  if (container) {
+    container.innerHTML = `<iframe class="game-frame" src="${url}" allowfullscreen allow="fullscreen; autoplay"></iframe>`;
+  }
+}
