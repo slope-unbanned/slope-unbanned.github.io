@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Slope",
+    "iframe": "https://23azostore.github.io/s/slope",
+    "icon": "slope.png"
+  },
+  {
+    "name": "Slope Tunnel",
+    "iframe": "https://23azostore.github.io/s7/slope-tunnel",
+    "icon": "slope-tunnel.png"
+  },
+  {
+    "name": "Slope City",
+    "iframe": "https://23azostore.github.io/s7/slope-city",
+    "icon": "slope-city.png"
+  },
+  {
+    "name": "Slope 3",
+    "iframe": "https://23azostore.github.io/s/slope-3",
+    "icon": "slope-3.png"
+  },
+  {
+    "name": "Slope 2",
+    "iframe": "https://23azostore.github.io/s6/slope-2",
+    "icon": "slope-2.png"
+  },
+  {
+    "name": "Slope 2 Multiplayer",
+    "iframe": "https://23azostore.github.io/s7/slope-2-multiplayer",
+    "icon": "slope-2-multiplayer.png"
+  }
+]
